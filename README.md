@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Target-Marketing-Carmax
+# Customer Segmentation and Target Marketing Recommendations For CarMax
 
 
 
